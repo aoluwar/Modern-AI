@@ -1,6 +1,6 @@
 # Building Modern AI Agents with LLMs, RAG, and Knowledge Graphs
 
-Welcome to the my repository for this book **"Building AI Agents with LLMs, RAG, and Knowledge Graphs"**.  
+Welcome to the  repository for this book **"Building AI Agents with LLMs, RAG, and Knowledge Graphs"**.  
 This is a guide that helps me understand how to design, build, and deploy powerful AI agents using modern tools such as Transformers, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Knowledge Graphs.
 
 ---
