@@ -44,5 +44,6 @@ This is a guide that helps me understand how to design, build, and deploy powerf
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/PacktPublishing/Modern-AI-Agents.git
-cd modern-ai-agents
+git clone https://github.com/aoluwar/Modern-AI.git
+cd modern-ai
+
